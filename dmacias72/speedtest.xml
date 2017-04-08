@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Container version="1">
+  <Name>Speedtest</Name>
+  <Repository>tianon/speedtest:latest</Repository>
+  <Registry>https://hub.docker.com/r/tianon/speedtest/</Registry>
+  <Network>host</Network>
+  <Privileged>false</Privileged>
+  <Support/>
+  <Overview/>
+  <Category/>
+  <WebUI>http://[IP]:[PORT:8668]/</WebUI>
+  <TemplateURL/>
+  <Icon>https://github.com/dmacias72/docker-templates/raw/master/dmacias72/img/speedtest.png</Icon>
+  <ExtraParams/>
+  <DateInstalled>1478985076</DateInstalled>
+  <Description/>
+  <Networking>
+    <Mode>host</Mode>
+  </Networking>
+  <Environment/>
+</Container>
